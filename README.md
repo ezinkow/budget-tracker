@@ -1,4 +1,4 @@
-# budget-tracker
+# Budget Tracker
 
 ![image](https://user-images.githubusercontent.com/71417500/108159589-f4485900-70ac-11eb-9f65-474866d79851.png)
 
