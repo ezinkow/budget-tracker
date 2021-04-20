@@ -8,7 +8,7 @@ https://desolate-retreat-62402.herokuapp.com/
 
 ## About This Project:
 
-This was a homework assignment as part of the Northwestern Coding Bootcamp to build an application where a user can keep track of their finances.
+This app is an application where a user can keep track of their finances.
 
 This was built with MongoDB, Mongoose, express, node, Heroku, Javascript, HTML and CRUD methods.
 
